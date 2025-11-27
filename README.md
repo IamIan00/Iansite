@@ -1,5 +1,6 @@
 Personal website for Ian built with Next.js App Router, TypeScript, and Tailwind CSS.
-![alt text](public/images/image.png)
+
+![adcnq0](https://github.com/user-attachments/assets/03a381d6-5a0b-47c3-9976-7465a0b52a07)
 
 ## Stack
 - Next.js 15.5.2 (App Router)
