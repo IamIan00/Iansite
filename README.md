@@ -1,4 +1,5 @@
 Personal website for Ian built with Next.js App Router, TypeScript, and Tailwind CSS.
+<img width="1286" height="791" alt="Screenshot 2025-11-27 at 8 58 13 pm" src="https://github.com/user-attachments/assets/74f7d054-d24e-45b5-b8e2-38c409e86fba" />
 
 ![adcnq0](https://github.com/user-attachments/assets/03a381d6-5a0b-47c3-9976-7465a0b52a07)
 
