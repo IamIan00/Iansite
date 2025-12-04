@@ -1,4 +1,4 @@
-Personal website for Dylan built with Next.js App Router, TypeScript, and Tailwind CSS.
+Personal website for Ian built with Next.js App Router, TypeScript, and Tailwind CSS.
 ![alt text](public/images/image.png)
 
 ## Stack

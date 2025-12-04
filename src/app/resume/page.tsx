@@ -12,7 +12,7 @@ export default function ResumePage() {
 			<Container>
 				<Section title="Resume">
 					<p className="text-muted-foreground mb-4">You can download my resume below.</p>
-					<a className="rounded-md bg-foreground text-background px-4 py-2 text-sm font-medium" href="/DylanNguyen2025.pdf" target="_blank" rel="noopener noreferrer">
+					<a className="rounded-md bg-foreground text-background px-4 py-2 text-sm font-medium" href="/IanNguyen2025.pdf" target="_blank" rel="noopener noreferrer">
 						Download Resume (PDF)
 					</a>
 					{/* TODO: Add resume.pdf to /public */}

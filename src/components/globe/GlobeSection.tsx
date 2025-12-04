@@ -62,14 +62,14 @@ type TimelineEntry = TimelineHeaderEntry | TimelineExperienceEntry;
 
 const HeroContent = () => (
 	<div className="text-center">
-		<h1 className="text-3xl md:text-5xl font-semibold tracking-tight text-white">Dylan Nguyen</h1>
+		<h1 className="text-3xl md:text-5xl font-semibold tracking-tight text-white">Ian Nguyen</h1>
 		<p className="mt-4 text-lg text-white/80">Data engineer & creative technologist in Melbourne.</p>
 		<div className="mt-8 flex flex-wrap items-center justify-center gap-3">
 			<Link href="/projects" className="rounded-md bg-white text-black px-4 py-2 text-sm font-medium shadow-sm transition-colors hover:bg-white/90">
 				View Projects
 			</Link>
 			<a
-				href="/Dylannguyen2025.pdf"
+				href="/Iannguyen2025.pdf"
 				className="rounded-md border border-white/40 px-4 py-2 text-sm text-white transition-colors hover:border-white"
 				target="_blank"
 				rel="noopener noreferrer"

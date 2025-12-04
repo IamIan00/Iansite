@@ -12,20 +12,20 @@ const inter = Inter({
 
 export const metadata: Metadata = {
 	title: {
-		template: "%s | Dylan Nguyen",
-		default: "Dylan Nguyen",
+		template: "%s | Ian Nguyen",
+		default: "Ian Nguyen",
 	},
 	description: "Data engineer & creative technologist in Melbourne.",
 	openGraph: {
 		type: "website",
 		locale: "en_AU",
-		siteName: "Dylan Nguyen",
+		siteName: "Ian Nguyen",
 		images: [
 			{
 				url: "/og.png",
 				width: 1200,
 				height: 630,
-				alt: "Dylan Nguyen",
+				alt: "Ian Nguyen",
 			},
 		],
 	},

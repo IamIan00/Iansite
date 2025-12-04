@@ -6,7 +6,7 @@ export function Navbar() {
 		<header className="sticky top-0 z-50 h-14 bg-background backdrop-blur border-b border-border">
 			<Container className="flex h-14 items-center justify-between">
 				<Link href="/" className="font-semibold tracking-tight" aria-label="Go to homepage">
-					Dylan Nguyen
+					Ian Nguyen
 				</Link>
 				<nav aria-label="Primary">
 					<ul className="flex gap-4 text-sm">
